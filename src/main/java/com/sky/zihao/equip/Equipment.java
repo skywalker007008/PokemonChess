@@ -1,0 +1,8 @@
+package com.sky.zihao.equip;
+
+/**
+ * Created: Zihao Liu
+ * Created time: 2022-12-19
+ **/
+public class Equipment {
+}
