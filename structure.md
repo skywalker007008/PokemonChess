@@ -34,3 +34,5 @@ The **Board** is the information of the player's board. It at least requires the
 On the board, it will call the interface of the **ChessAction** to modify the chess information.
 
 ### Equip
+
+sss
